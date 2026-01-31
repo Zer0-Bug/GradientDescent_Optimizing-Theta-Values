@@ -51,7 +51,7 @@ The core of this project is a custom-built `LogisticRegression` class that imple
 <h2 align="center">Project Structure</h2>
 
 ```
-ML_GradientDescent-.-FindThetaValues/
+GradientDescent_Optimizing-Theta-Values/
 ├── LICENSE                                   # MIT License
 ├── README.md                                 # Project documentation
 ├── .gitattributes                            # Git configuration
@@ -127,8 +127,8 @@ The parameter update rule applied at each iteration to converge towards the glob
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/Zer0-Bug/ML_GradientDescent-.-FindThetaValues.git
-cd ML_GradientDescent-.-FindThetaValues
+git clone https://github.com/Zer0-Bug/GradientDescent_Optimizing-Theta-Values.git
+cd GradientDescent_Optimizing-Theta-Values
 ```
 
 ### Setup & Dependencies
