@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" />
 </p>
 
-<h1 align="center">ML Gradient Descent: Optmizing Theta Values</h1>
+<h1 align="center">Gradient Descent: Optimizing Theta Values</h1>
 
 <p align="center">
   A robust implementation of <b>Logistic Regression</b> using <b>Gradient Descent</b> to find optimal θ (theta) values. This project demonstrates the mathematical foundations of machine learning, featuring L2 regularization, convergence monitoring, and decision boundary visualization.
