@@ -174,9 +174,7 @@ All contributions are reviewed before being merged. Please ensure that your chan
 <br>
 <h2 align="center">References</h2>
 
-1. **Ng, A.** - [CS229 Lecture Notes: Logistic Regression](https://see.stanford.edu/materials/aimlcs229/cs229-notes1.pdf). *Stanford University*.  
-2. **Chen, T., & Guestrin, C. (2016)** - [XGBoost: A scalable tree boosting system](https://arxiv.org/abs/1603.02754). *Proceedings of the 22nd ACM SIGKDD*.  
-3. **Goodfellow, I., Bengio, Y., & Courville, A. (2016)** - [Deep Learning, MIT Press](https://www.deeplearningbook.org/).  
+1. **Ng, A.** - [CS229 Lecture Notes: Logistic Regression](https://see.stanford.edu/materials/aimlcs229/cs229-notes1.pdf). *Stanford University*.
 
 ---
 <br>
