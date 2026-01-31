@@ -125,10 +125,9 @@ The parameter update rule applied at each iteration to converge towards the glob
 
 ### Repository Acquisition
 Clone the repository and navigate to the project directory:
-```
 ```bash
 git clone https://github.com/Zer0-Bug/GradientDescent_Optimizing-Theta-Values.git
-
+```
 ```bash
 cd GradientDescent_Optimizing-Theta-Values
 ```
